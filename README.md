@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZachZ123
+- 👋 Hi, I’m Zach!
 - 👀 I’m interested in learning QA Automation
 - 🌱 I’m currently learning the basics of HTML through FreeCodeCamp
 
